@@ -1,0 +1,15 @@
+D:\seminar_5\task40sem\bin\Debug\net6.0\task40sem.exe
+D:\seminar_5\task40sem\bin\Debug\net6.0\task40sem.deps.json
+D:\seminar_5\task40sem\bin\Debug\net6.0\task40sem.runtimeconfig.json
+D:\seminar_5\task40sem\bin\Debug\net6.0\task40sem.dll
+D:\seminar_5\task40sem\bin\Debug\net6.0\task40sem.pdb
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.csproj.AssemblyReference.cache
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.AssemblyInfoInputs.cache
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.AssemblyInfo.cs
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.csproj.CoreCompileInputs.cache
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.dll
+D:\seminar_5\task40sem\obj\Debug\net6.0\refint\task40sem.dll
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.pdb
+D:\seminar_5\task40sem\obj\Debug\net6.0\task40sem.genruntimeconfig.cache
+D:\seminar_5\task40sem\obj\Debug\net6.0\ref\task40sem.dll

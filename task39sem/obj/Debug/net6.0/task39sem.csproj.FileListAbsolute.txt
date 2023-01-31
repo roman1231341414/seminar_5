@@ -1,0 +1,15 @@
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.csproj.AssemblyReference.cache
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.AssemblyInfoInputs.cache
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.AssemblyInfo.cs
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.csproj.CoreCompileInputs.cache
+D:\seminar_5\task39sem\bin\Debug\net6.0\task39sem.exe
+D:\seminar_5\task39sem\bin\Debug\net6.0\task39sem.deps.json
+D:\seminar_5\task39sem\bin\Debug\net6.0\task39sem.runtimeconfig.json
+D:\seminar_5\task39sem\bin\Debug\net6.0\task39sem.dll
+D:\seminar_5\task39sem\bin\Debug\net6.0\task39sem.pdb
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.dll
+D:\seminar_5\task39sem\obj\Debug\net6.0\refint\task39sem.dll
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.pdb
+D:\seminar_5\task39sem\obj\Debug\net6.0\task39sem.genruntimeconfig.cache
+D:\seminar_5\task39sem\obj\Debug\net6.0\ref\task39sem.dll

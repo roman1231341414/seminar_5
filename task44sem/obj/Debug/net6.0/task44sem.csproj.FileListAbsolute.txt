@@ -1,0 +1,15 @@
+D:\seminar_5\task44sem\bin\Debug\net6.0\task44sem.exe
+D:\seminar_5\task44sem\bin\Debug\net6.0\task44sem.deps.json
+D:\seminar_5\task44sem\bin\Debug\net6.0\task44sem.runtimeconfig.json
+D:\seminar_5\task44sem\bin\Debug\net6.0\task44sem.dll
+D:\seminar_5\task44sem\bin\Debug\net6.0\task44sem.pdb
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.csproj.AssemblyReference.cache
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.AssemblyInfoInputs.cache
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.AssemblyInfo.cs
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.csproj.CoreCompileInputs.cache
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.dll
+D:\seminar_5\task44sem\obj\Debug\net6.0\refint\task44sem.dll
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.pdb
+D:\seminar_5\task44sem\obj\Debug\net6.0\task44sem.genruntimeconfig.cache
+D:\seminar_5\task44sem\obj\Debug\net6.0\ref\task44sem.dll
