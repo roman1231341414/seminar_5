@@ -1,0 +1,15 @@
+D:\seminar_5\task65\obj\Debug\net6.0\task65.csproj.AssemblyReference.cache
+D:\seminar_5\task65\obj\Debug\net6.0\task65.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar_5\task65\obj\Debug\net6.0\task65.AssemblyInfoInputs.cache
+D:\seminar_5\task65\obj\Debug\net6.0\task65.AssemblyInfo.cs
+D:\seminar_5\task65\obj\Debug\net6.0\task65.csproj.CoreCompileInputs.cache
+D:\seminar_5\task65\bin\Debug\net6.0\task65.exe
+D:\seminar_5\task65\bin\Debug\net6.0\task65.deps.json
+D:\seminar_5\task65\bin\Debug\net6.0\task65.runtimeconfig.json
+D:\seminar_5\task65\bin\Debug\net6.0\task65.dll
+D:\seminar_5\task65\bin\Debug\net6.0\task65.pdb
+D:\seminar_5\task65\obj\Debug\net6.0\task65.dll
+D:\seminar_5\task65\obj\Debug\net6.0\refint\task65.dll
+D:\seminar_5\task65\obj\Debug\net6.0\task65.pdb
+D:\seminar_5\task65\obj\Debug\net6.0\task65.genruntimeconfig.cache
+D:\seminar_5\task65\obj\Debug\net6.0\ref\task65.dll
