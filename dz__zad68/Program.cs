@@ -14,15 +14,19 @@ int getUserData(string message)
 
 int getStrRange(int M, int N)
 {
-    if (M == N )
+    if (M == 0)
     {
-        return M = 0;
+        return N+=1;
     }
-    else if (M > 0 && N = 0) 
+    else if (M > 0 && N == 0)
     {
-        return getStrRange(M-1,1);
+        return N = getStrRange(M - 1, 1);
     }
-    return getStrRange(M-1,(N - 1));
+    else if (M > 0 && N > 0)
+    {
+        return N = getStrRange(M - 1, getStrRange(M, N - 1));
+    }
+    return N;
 }
 
 Console.Clear();

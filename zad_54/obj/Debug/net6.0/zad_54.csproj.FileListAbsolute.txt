@@ -1,0 +1,15 @@
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.csproj.AssemblyReference.cache
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.AssemblyInfoInputs.cache
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.AssemblyInfo.cs
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.csproj.CoreCompileInputs.cache
+D:\seminar_5\zad_54\bin\Debug\net6.0\zad_54.exe
+D:\seminar_5\zad_54\bin\Debug\net6.0\zad_54.deps.json
+D:\seminar_5\zad_54\bin\Debug\net6.0\zad_54.runtimeconfig.json
+D:\seminar_5\zad_54\bin\Debug\net6.0\zad_54.dll
+D:\seminar_5\zad_54\bin\Debug\net6.0\zad_54.pdb
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.dll
+D:\seminar_5\zad_54\obj\Debug\net6.0\refint\zad_54.dll
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.pdb
+D:\seminar_5\zad_54\obj\Debug\net6.0\zad_54.genruntimeconfig.cache
+D:\seminar_5\zad_54\obj\Debug\net6.0\ref\zad_54.dll
